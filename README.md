@@ -1,0 +1,1 @@
+# Excel02-Tabela_FormatacaoCondicional_e_FiltroAvancado
